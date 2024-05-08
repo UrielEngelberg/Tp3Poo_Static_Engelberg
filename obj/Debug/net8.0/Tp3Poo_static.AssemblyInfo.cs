@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tp3Poo_static")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1348d8b96f85c463fb3fd5a78b3a9ba16c284f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tp3Poo_static")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tp3Poo_static")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
